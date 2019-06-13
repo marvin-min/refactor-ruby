@@ -1,3 +1,4 @@
+#describe a customer's information and the history records
 class Customer
   attr_reader :name
   

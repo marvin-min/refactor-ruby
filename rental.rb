@@ -1,3 +1,4 @@
+#rental used to calculate the bill
 class Rental
   attr_reader :movie, :days_rented
   def initialize(movie, days_rented)
